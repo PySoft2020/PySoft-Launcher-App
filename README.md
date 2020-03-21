@@ -9,4 +9,5 @@ PySoft Launcher 4 is Here!
 1. Now Has UI Appearance
 2. Easier Installation Process
 
-⚠ If You Have Been Directed to This Page and Want to Download PySoft Launcher, Go To: https://bit.ly/PySoftLauncher ⚠
+WARNING:
+If You Have Been Directed to This Page and Want to Download PySoft Launcher, Go To: https://bit.ly/PySoftLauncher
